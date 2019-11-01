@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Projet Beta</title>
+<link rel="stylesheet" href="css/style.css" type="text/css">
+
+
+</head>
+<body>
+<img src="img/youcode.png">
+<ul>
+	<li>BOUFARA Mustapha</li>
+	<li>MAKHFI youness</li>
+	<li>AZIZI abdelhamid</li>
+	<li>GHALI larbi</li>
+	<li>BENMANSOUR naaoufal</li>
+	<li>BENZIT ANAS</li>
+</ul>
+</body>
+</html>
