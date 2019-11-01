@@ -2,9 +2,12 @@
 <html>
 <head>
 	<title>Projet Beta</title>
+<link rel="stylesheet" href="css/style.css">
+
+
 </head>
 <body>
-<img src="">
+<img src="img/youcode.png">
 <ul>
 	<li>BOUFARA Mustapha</li>
 	<li>MAKHFI youness</li>
